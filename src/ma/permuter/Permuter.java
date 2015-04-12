@@ -1,7 +1,5 @@
 package ma.permuter;
 
-
-
 /**
  * The MIT License (MIT)
  * 
